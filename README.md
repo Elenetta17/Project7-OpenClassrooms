@@ -41,6 +41,11 @@ The best model is LightGBM, which was further optimized using Bayesian optimizat
 
 ## Acquired Skills
 
+-	Define and implement a model performance monitoring strategy
+-	Define the strategy for developing a supervised learning model
+-	Evaluate the performance of supervised learning models
+
+
 
 
 
